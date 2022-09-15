@@ -91,7 +91,7 @@
 }
 
 .two-columns__brief {
-  width: 175PX;
+  width: 175px;
   margin: 0;
   align-content: center;
   color: #2f80ed;
@@ -153,7 +153,7 @@
   display: flex;
   flex-wrap: wrap;
   margin: auto;
-  justify-content: space-between
+  justify-content: space-between;
 }
 
 .table__cell {
@@ -209,7 +209,6 @@
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
-  margin-top: 0;
 }
 
 .feynman__link {
