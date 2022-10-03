@@ -1,0 +1,6 @@
+.footer__column-link {
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    transition: linear;
+}
