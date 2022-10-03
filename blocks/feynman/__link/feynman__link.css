@@ -9,3 +9,7 @@
     transition: linear;
     text-decoration: none;
 }
+
+.feynman__link:hover {
+    opacity: 60%;
+}

@@ -4,3 +4,7 @@
     color: white;
     transition: linear;
 }
+
+.footer__column-link:hover {
+    opacity: 60%;
+}
